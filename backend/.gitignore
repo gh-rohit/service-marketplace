@@ -1,0 +1,17 @@
+# backend/.gitignore
+node_modules/
+.env
+.env.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+uploads/
+temp/
+logs/
+*.pem
+*.key
+config/keys.js
+config/production.js
+.nyc_output/
+coverage/
