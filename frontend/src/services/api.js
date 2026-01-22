@@ -1,7 +1,7 @@
 // frontend/src/services/api.js
 import axios from 'axios';
 
-const API_URL = 'https://service-marketplace-backend-kc0j.onrender.com';
+const API_URL = 'https://service-marketplace-backend-kc0j.onrender.com/api';
 
 // Create axios instance
 const api = axios.create({
